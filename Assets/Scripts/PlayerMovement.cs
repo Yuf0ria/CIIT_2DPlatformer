@@ -16,6 +16,7 @@ public class PlayerMovement : MonoBehaviour
     //Access Animator to play animations
     public Animator anim;
     public int coinsCount;
+    public int healthPoints;
 
     // Start is called before the first frame update
     void Start()
