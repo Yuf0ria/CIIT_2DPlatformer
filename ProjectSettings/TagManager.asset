@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Coins
   - Trap
+  - Collectibles
+  - health
   layers:
   - Default
   - TransparentFX
